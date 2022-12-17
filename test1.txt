@@ -3,3 +3,4 @@ We love Argentina.
 We love Barcelona.
 I born in June.
 I am 22 years old..
+I have started my full stack web development job in 2023.
